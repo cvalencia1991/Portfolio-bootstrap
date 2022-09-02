@@ -1,0 +1,238 @@
+.stylenav {
+  padding: 0 80px;
+}
+
+.background1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 590px;
+  background-size: contain;
+  background-color: #1c1a19;
+  background-image: url("./imgs/Illustration-header.svg");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-position-y: bottom;
+  padding-top: 192px;
+}
+
+h4 {
+  font-family: 'Crete Round', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 52px;
+}
+
+h6,
+.colorheader {
+  width: 566px;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  letter-spacing: 0.37px;
+  color: hsl(25.2, 100%, 50%);
+  text-align: start;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-bottom: 24px;
+  font-family: 'Crete Round', serif;
+}
+
+.colormail {
+  background: white;
+}
+
+.links1 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+}
+
+.header2 {
+  width: 566px;
+  height: 24px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 44px;
+  display: flex;
+  align-items: center;
+  color: #fff;
+  margin-bottom: 24px;
+}
+
+.textmain {
+  width: 566px;
+  height: 123px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #f4f5f7;
+  text-align: start;
+}
+
+.styletittle {
+  font-family: 'Crete Round', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 52px;
+  margin-top: 135px;
+}
+
+.workstyle {
+  width: 448px;
+  height: 140px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.stylecards {
+  font-family: 'Crete Round', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.navbar-brand {
+  padding-left: 20px;
+}
+
+.styletechs {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 43px;
+}
+
+.recentworks {
+  display: flex;
+  gap: 24px;
+}
+
+.info1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 24px;
+}
+
+.stylebutton {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #fff;
+  padding: 12px;
+  gap: 10px;
+  width: 150px;
+  height: 48px;
+  background: #cc4b00;
+  border-radius: 0%;
+}
+
+.cardstyle {
+  background-image: url("./imgs/cardbackground.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card-body {
+  height: 435px;
+  width: auto;
+}
+
+h5 {
+  margin-top: 178px;
+}
+
+.aboutmectn {
+  background: #262626;
+  height: 1195px;
+  background-position: right top;
+  background-image: url("./imgs/aboutmeimage.svg");
+  background-repeat: no-repeat;
+}
+
+.tecnologies {
+  display: flex;
+}
+
+.touchinfo {
+  width: 455px;
+  height: 256px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  color: #262626;
+}
+
+.desingin {
+  padding: 142px;
+}
+
+.contanierform {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 130px;
+}
+
+.colorinfo {
+  background-color: rgba(255, 255, 255, 0.24);
+}
+
+.Tittletech1 {
+  list-style-image: url("./imgs/Rectangle55.jpg");
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: white;
+  background: #ffffff3d;
+}
+
+.Tittletech2 {
+  list-style-image: url("./imgs/square56.png");
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.Tittletech3 {
+  list-style-image: url("./imgs/Circle57.png");
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.styleform {
+  width: 40%;
+}
