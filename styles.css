@@ -26,12 +26,30 @@
     justify-content: center;
     gap: 7%;
   }
+  .colorheader{
+    color: #ff6b00;
+  }
+  
+  .container{
+    text-align: left;
+    justify-content: center;
+    margin-top: 6em;
+  }
+
+  .welcome{
+    width: 96%;
+  }
 }
 @media screen and (min-width: 768px) {
   .stylenav {
     padding: 0 80px;
   }
-  
+
+  .name_separator
+  {
+    display: none;
+  }
+
   .background1 {
     display: flex;
     flex-direction: column;
