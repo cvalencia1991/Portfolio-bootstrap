@@ -23,7 +23,7 @@
   .mobile_social_media{
     margin-top: 2em;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     gap: 7%;
   }
   .colorheader{
