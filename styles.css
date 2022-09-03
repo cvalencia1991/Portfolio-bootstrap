@@ -5,8 +5,26 @@
     display: flex;
     
   }
-  .mybrand{
-
+  .background1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 590px;
+    background-color: #1c1a19;
+    background-image: url("./imgs/illustration-header-mobile.png");
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+    color:#fff
+  }
+  .descktop_social_media{
+    display: none;
+  }
+  .mobile_social_media{
+    margin-top: 2em;
+    display: flex;
+    justify-content: center;
+    gap: 7%;
   }
 }
 @media screen and (min-width: 768px) {
