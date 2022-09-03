@@ -17,14 +17,15 @@
     background-position-y: bottom;
     color:#fff
   }
-  .descktop_social_media{
+  .desktopsocial_media{
     display: none;
   }
   .mobile_social_media{
     margin-top: 2em;
     display: flex;
+    flex-direction: row;
     justify-content: left;
-    gap: 7%;
+
   }
   .colorheader{
     color: #ff6b00;
